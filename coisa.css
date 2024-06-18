@@ -1,0 +1,36 @@
+*{
+margin: 0; 
+padding: 0;    
+}
+body{
+background-color: #727272;
+color: white;
+}
+.meio{  
+border:solid 5px #2c4d56;  
+border-radius: 30px;
+text-align: center;
+background-color: #1a1a1a;
+margin: 60px;
+padding: 60px;   
+}
+.listacoisa{
+border-radius: 45px;
+color: #000000;
+background-color: #dadada;
+}
+.botao{
+    height: 22.5px;
+    border: none;
+    cursor:pointer;
+background-color: #2b3750;
+
+}
+.cabeca{
+    height: 1.75cm;
+    text-align: center;
+    background-color: #272727;
+}
+.coisado{
+    
+}
